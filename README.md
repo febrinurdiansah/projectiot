@@ -29,6 +29,7 @@ To test the API, you can use Postman or any other similar tool. Send a POST requ
   "humidity": 60.2
 }
 ```
+Send data to: [https://iotttm000.000webhostapp.com/api/api.php?data=realtime], and if you want to check the results, you can download the [application](https://github.com/febrinurdiansah/projectiot/releases/tag/application) or visit the [website](https://iotttm000.000webhostapp.com) directly.
 
 ## Getting Started
 To get started with the project, follow these steps:
