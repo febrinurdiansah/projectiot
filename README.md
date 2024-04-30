@@ -18,7 +18,7 @@ This project aims to create a monitoring application for an Internet of Things (
 - Postman for API testing
 
 ## Screenshots
-![Data Visualization](screenshots/img1.png)
+![Data Visualization](screenshot/img1.png)
 
 ## API Testing
 To test the API, you can use Postman or any other similar tool. Send a POST request to the API endpoint with the following JSON format:
