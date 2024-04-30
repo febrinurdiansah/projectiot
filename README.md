@@ -20,17 +20,6 @@ This project aims to create a monitoring application for an Internet of Things (
 ## Screenshots
 <img src="screenshot/img1.png" width="200" />
 
-## API Testing
-To test the API, you can use Postman or any other similar tool. Send a POST request to the API endpoint with the following JSON format:
-
-```json
-{
-  "temperature": 25.5,
-  "humidity": 60.2
-}
-```
-Send data to: [https://iotttm000.000webhostapp.com/api/api.php?data=realtime], and if you want to check the results, you can download the [application](https://github.com/febrinurdiansah/projectiot/releases/tag/application) or visit the [website](https://iotttm000.000webhostapp.com) directly.
-
 ## Getting Started
 To get started with the project, follow these steps:
 
