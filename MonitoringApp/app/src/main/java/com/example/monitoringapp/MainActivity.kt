@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //inisialisasi web yang ingin diambil datanya
         val retrofit = Retrofit.Builder()
-            .baseUrl("https://iotttm000.000webhostapp.com/")
+            .baseUrl("localhost")
             .addConverterFactory(GsonConverterFactory.create())
             .build()
 
