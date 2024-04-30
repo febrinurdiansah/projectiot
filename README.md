@@ -1,10 +1,11 @@
 # Monitoring App for IoT Project
 
 ## Introduction
-This project aims to create a monitoring application for an Internet of Things (IoT) system. The system consists of various sensors that collect temperature and humidity data, which is then displayed in the mobile application. The application provides real-time updates and historical data visualization, allowing users to monitor and analyze the environmental conditions remotely.
+This project aims to create a monitoring application for an Internet of Things (IoT) system. The system consists of various sensors that collect temperature and humidity data, which is then displayed in the mobile application. The application provides real-time updates, allowing users to monitor and analyze the environmental conditions remotely.
 
 ## Features
 - Real-time display of temperature and humidity readings
+- Supports remote data monitoring and management
 - User-friendly interface for easy navigation
 
 ## Tools and Technologies Used
